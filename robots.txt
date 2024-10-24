@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nuzodale.github.io/sitemap/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/crM/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/jgI/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/GkW/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/fyF/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/nJx/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/NXV/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/GIr/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/gqa/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/aPr/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/EZr/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/bjS/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/fsI/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/xqS/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/TCf/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/ivD/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/sSR/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/LNo/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/LKT/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/fGp/sitemap_index.nuzodale
+Sitemap: https://nuzodale.github.io/Lwn/sitemap_index.nuzodale
